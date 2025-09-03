@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "practice.h": "c",
+        "string.h": "c",
+        "bitset": "c",
+        "unordered_map": "c"
+    }
+}
